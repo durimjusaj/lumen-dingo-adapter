@@ -14,11 +14,11 @@
     "require": {
         "php": ">=7.1",
         "tymon/jwt-auth": "1.*",
-        "dingo/api": "^2.4",
-        "illuminate/hashing": "^6.10",
-        "illuminate/cookie": "^6.10",
-        "illuminate/routing": "^6.10",
-        "illuminate/http": "^6.10"
+        "dingo/api": "^3.0",
+        "illuminate/hashing": "^7.0",
+        "illuminate/cookie": "^7.0",
+        "illuminate/routing": "^7.0",
+        "illuminate/http": "^7.0"
     },
     "authors": [
         {
